@@ -6,6 +6,9 @@ An unique way of solving Magic Matrix puzzle by reducing the memory useage on th
 
 The sum of each column or an row is same for all. Have a look to the below images.
 
+![3x3 Matrix](https://raw.githubusercontent.com/college-projects-passion/magic_matrix/master/resources/3x3_puzzle.png =350x)
+![3x3 Matrix Explanation](https://raw.githubusercontent.com/college-projects-passion/magic_matrix/master/resources/3x3_puzzle1.png =350x)
+![5x5 Matrix](https://raw.githubusercontent.com/college-projects-passion/magic_matrix/master/resources/5x5_puzzle.png =350x)
 
 # how to start
 
