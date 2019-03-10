@@ -4,6 +4,8 @@ An unique way of solving Magic Matrix puzzle by reducing the memory useage on th
 
 # what's a Magic Matrix
 
+The sum of each column or an row is same for all. Have a look to the below images.
+
 
 # how to start
 
